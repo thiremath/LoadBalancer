@@ -1,0 +1,52 @@
+This will give you guys more details about how the demo works, and some more requirements for this project.
+
+How the demo works
+
+A student as the lead presenter will be responsible for:
+- introducing the project to the audience
+- providing an overview of the project, its purpose, and how it works
+
+Each team member must 
+- demonstrate the feature they were responsible for
+- explain the feature’s functionality
+
+During the demo, you have to
+- download the submitted project source code from Brightspace
+- run the project live
+- make sure it works as intended
+
+I will ask a few questions based-on the source code to challenge your understanding. 
+
+
+Requirements for the submission
+The due date for project 3 will be Dec. 2 Mon. 23:59:59.
+
+The submission should include 
+- Source code of your team project. Each team member is expected to contribute roughly 100 lines of code to prevent a trivial work. If you current project does not meet this requirement, expand it by adding a few more features
+- A short README within 200 words. It should briefly describe the project and the key features implemented. 
+
+Only one submission is required from your team.
+
+Schedule your demo time
+- Pick at least 2 time slots from the provided schedule that works for your team
+- Submit your preferences, and you’ll be assigned one slot
+- Make sure all your team members can attend the assigned time slot
+
+Here’s the schedule link https://forms.gle/SyQME4BJv3jmLRKD7
+
+
+What will be considered during the demo
+During the demo, the following aspects will be considered to grade your work:
+- Does the project work out of the box without any issues?
+- Does the project work as intended with the described feature?
+- Are systems programming concepts used and implemented?
+- Is the demo clear, well-organized?
+- Did all team members contribute meaningfully?
+
+
+A final checklist for you guys:
+- Project code submit to Brightspace before the deadline
+- A short README(200 words max)
+- Schedule your time for demo
+- Meet the LOC requirements(~100 LOC) 
+- Prepare the demonstration of the feature you’re responsible for
